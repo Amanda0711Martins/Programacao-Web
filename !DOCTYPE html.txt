@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+	<form>
+		<table>
+			<label>Amanda Martins</label>
+			<table border = "1" cellpadding ="10" cellspacing = "0">
+				<tr>
+					<th>Nome </th>
+					<th>Idade </th>
+				</tr>
+				<tr>
+					<Id>Amanda</td>
+					<td>28</td>
+				</tr>
+		</table>
+	</form>
+
+</html>
